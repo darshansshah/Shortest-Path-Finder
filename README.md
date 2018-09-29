@@ -1,7 +1,5 @@
 # Shortest-Path-Finder
 
-# Shortest-Path-Finder
-
 This is the Application for calculating the shortest path for particular source and multiple destinations in the
 city using Dijkstraâ€™s shortest path algorithm. This project was in the course "Data Structures and Algorithms".
 
